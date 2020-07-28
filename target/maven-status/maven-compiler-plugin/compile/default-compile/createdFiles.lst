@@ -1,0 +1,7 @@
+com/student/information/system/model/Student.class
+com/student/information/system/service/StudentService.class
+com/student/information/system/service/impl/StudentServiceImpl.class
+com/student/information/system/repository/StudentRepository.class
+com/student/information/system/StudentInformationsystemApplication.class
+com/student/information/system/controller/StudentController.class
+com/student/information/system/ServletInitializer.class
